@@ -115,6 +115,7 @@ PRODUCT_PACKAGES += \
     libSEF.quram \
     libacryl \
     libacryl_plugin_slsi_hdr10 \
+    libcrypto-compat \
     libbauthserver \
     libbauthtzcommon \
     libcsc \
